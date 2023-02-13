@@ -21,6 +21,6 @@ entries:
     - https://github.com/hugoprudente/charts/tree/main/incubator/foundry-vtt
     type: application
     urls:
-    - plehmkuhl.github.io/helm-charts/foundry-vtt-10.291.0.tgz
+    - foundry-vtt-10.291.0.tgz
     version: 10.291.0
 generated: "2023-02-13T22:49:22.425264018+01:00"
